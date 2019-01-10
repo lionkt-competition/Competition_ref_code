@@ -1,3 +1,6 @@
 [submodule "BDCI2018-ChinauUicom-1st-solution"]
 	path = BDCI2018-ChinauUicom-1st-solution
 	url = https://github.com/lionkt-competition/BDCI2018-ChinauUicom-1st-solution
+[submodule "2018-CCF-BDCI-China-Unicom-Research-Institute-top2"]
+	path = 2018-CCF-BDCI-China-Unicom-Research-Institute-top2
+	url = https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
