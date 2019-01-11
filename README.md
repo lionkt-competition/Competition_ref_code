@@ -22,7 +22,9 @@
 
 - [top2 解决方案](https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2)，with submodule
 
-    
+- [top4 解决方案](https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution)，**采用2分类的方法，对于混淆矩阵中表现较差的类单独进行处理**，with submodule
+  
+  > 当时我也遇到这个问题，但是训练出来的二分类器效果不好，可以学习一下他们是怎么搞得
 
 
 

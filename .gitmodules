@@ -7,3 +7,6 @@
 [submodule "Data-Competition-TopSolution"]
 	path = Data-Competition-TopSolution
 	url = https://github.com/Smilexuhc/Data-Competition-TopSolution
+[submodule "2018_CCF_BDCI_ChinaUicom_rank4_solution"]
+	path = 2018_CCF_BDCI_ChinaUicom_rank4_solution
+	url = https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution
