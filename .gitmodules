@@ -4,3 +4,6 @@
 [submodule "2018-CCF-BDCI-China-Unicom-Research-Institute-top2"]
 	path = 2018-CCF-BDCI-China-Unicom-Research-Institute-top2
 	url = https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
+[submodule "Data-Competition-TopSolution"]
+	path = Data-Competition-TopSolution
+	url = https://github.com/Smilexuhc/Data-Competition-TopSolution
