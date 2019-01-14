@@ -13,3 +13,9 @@
 [submodule "Daily_code"]
 	path = Daily_code
 	url = https://github.com/lionkt/Daily_code
+[submodule "tencent-contest"]
+	path = tencent-contest
+	url = https://github.com/lionkt-competition/tencent-contest
+[submodule "Tencent_Ads_Algo_2018"]
+	path = Tencent_Ads_Algo_2018
+	url = https://github.com/lionkt-competition/Tencent_Ads_Algo_2018
