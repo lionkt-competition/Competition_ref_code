@@ -19,3 +19,9 @@
 [submodule "Tencent_Ads_Algo_2018"]
 	path = Tencent_Ads_Algo_2018
 	url = https://github.com/lionkt-competition/Tencent_Ads_Algo_2018
+[submodule "2018spa"]
+	path = 2018spa
+	url = https://github.com/lionkt-competition/2018spa
+[submodule "Tencent2018_Lookalike_Rank7th"]
+	path = Tencent2018_Lookalike_Rank7th
+	url = https://github.com/lionkt-competition/Tencent2018_Lookalike_Rank7th
