@@ -2,16 +2,16 @@
 
 目录
 - [Competition_ref_code](#competitionrefcode)
-  - [My experience](#my-experience)
+  - [**My experience**](#my-experience)
     - [1. 2018 CCF China Unicom 套餐推荐](#1-2018-ccf-china-unicom-%E5%A5%97%E9%A4%90%E6%8E%A8%E8%8D%90)
-  - [Relevant competition](#relevant-competition)
+  - [**Relevant competition**](#relevant-competition)
     - [1. 2018 腾讯广告算法大赛](#1-2018-%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B)
-  - [别人的整合](#%E5%88%AB%E4%BA%BA%E7%9A%84%E6%95%B4%E5%90%88)
+  - [**别人的竞赛资源整合**](#%E5%88%AB%E4%BA%BA%E7%9A%84%E7%AB%9E%E8%B5%9B%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88)
 
 
 
 
-## My experience
+## **My experience**
 
 ----
 
@@ -32,28 +32,30 @@
 
 
 
-## Relevant competition
+## **Relevant competition**
 
 ----
 
 ### 1. 2018 腾讯广告算法大赛
 
+- [别人对top10 code的综合整理，**包含ppt等资料，很详细**](https://github.com/lionkt-competition/2018spa)，with submodule
+
 - [top3 解决方案](https://github.com/lionkt-competition/Tencent_Ads_Algo_2018)，with submodule
 
-- [top6 解决方案](https://github.com/lionkt-competition/tencent-contest)，with submodule，[知乎专栏](https://zhuanlan.zhihu.com/p/38443751)
+- [top6 解决方案](https://github.com/lionkt-competition/tencent-contest)，with submodule，[知乎专栏地址](https://zhuanlan.zhihu.com/p/38443751)，在专栏里对deep FFM方法讲的比较好，**FFM参考**
+
+- [top7 解决方案](https://github.com/guoday/Tencent2018_Lookalike_Rank7th)，with submodule，对deep FFM搞的比较好，**FFM参考**
 
 
 
-
-
-## 别人的整合
+## **别人的竞赛资源整合**
 
 ----
 
 - [数据竞赛Top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution)，侧重于国内比赛
 
 
-- [比赛名录，包含了比赛的起止日期](https://github.com/lionkt-competition/DataSciComp)
+- [比赛名录，包含了比赛的起止日期](https://github.com/lionkt-competition/DataSciComp)，包含国内外比赛
 
 
 - [kaggle top方案整理](https://github.com/lionkt-competition/kaggle-past-solutions)， 这个包含了对历年比赛类型、top方案的汇总整理，做的很用心
